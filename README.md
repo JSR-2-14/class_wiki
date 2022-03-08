@@ -33,7 +33,7 @@ ____
 ____
 
 <div align="center">
-  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="filipe">
+  <img width="200px" src="https://i.imgur.com/7e5DTEw.png" alt="filipe">
   <h3>Filipe Marques</h3>
   <h4>Instructional Associate</h4>
   <p>Hi! My name is Filipe and I’ll be your <b>Instructional Associate</b> for the duration of the JSR-2-14 Course! I will be checking your attendance, grading your assignments and helping you debug. I'll also even teach a few lessons!</p>
