@@ -36,9 +36,10 @@ ____
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="filipe">
   <h3>Filipe Marques</h3>
   <h4>Instructional Associate</h4>
-<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
-<!--   <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span> -->
+  <p>Hi! My name is Filipe and I’ll be your <b>Instructional Associate</b> for the duration of the JSR-2-14 Course! I will be checking your attendance, grading your assignments and helping you debug. I'll also even teach a few lessons!</p>
+  <p>I am a recent graduate from GA's Software Engineering Immersive program, and I am excited to help everyone of you on this journey and make sure you get the most out of it!</p>
+  <p>As a Developer I like to be innovative. I use algorithms, patterns and engineering principles to craft and mold products into something that users will love. At the same time I thrive on efficiency and work quickly.</p>
+  <span><a href="https://github.com/filipeqm94">GitHub</a> | <a href="https://www.linkedin.com/in/marques-fq/">LinkedIn</a> | <a href="https://filipemarques.me/">My Personal Website</a></span>
   <br>
 </div>
 
