@@ -4,101 +4,19 @@
   <img src="https://i.imgur.com/e2Ma89q.png" alt="wiki">
 </div>
 
-___
-Welcome to the <b>SEI-R-2-22 Class Wiki</b>.
+____
+
+Welcome to the <b>JSR-2-14 Class Wiki</b>.
 
 This repository is a place where links to all of the course content that we cover can be found. Content is organized by <i>Unit</i> and <i>Week</i> with lesson repos and class recordings for each day.
 
-Deliverable Pull Request Guidelines can be found [here](https://github.com/SEI-R-2-22/template_pull_request).
-
-Daily Javascript Challenges can be found [here](https://github.com/SEI-R-2-22/daily_js_challenges).
-
-<!-- Computer Science Algorithms & Data Structures can be found [here](https://github.com/SEI-R-2-22/cs_data_structures). -->
+Deliverable Pull Request Guidelines can be found [here](https://github.com/JSR-2-14/template_pull_request).
 
 ____
-<details><summary><strong>General Assembly Team</strong></summary><p>
+
+<details><summary><strong>General Assembly Team</strong></summary>
 
 <ul type="none">
-
-<li><details><summary><strong>Instructors</strong></summary><p>
-
-<p>Even though you'll be in different Groups, you'll often engage with each of the instructors at several points and have access to the instructional recordings of <i>all three</i> teams.</p>
-
-<ul type="none">
-
-<li><details><summary>Group 1</summary>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/W0E8Vel.png" alt="ben">
-  <h3>Ben Manning</h3>
-  <h4>Lead Instructor</h4>
-  <p>Hey everyone, my name is Ben Manning and I’ll be the <b>Lead Instructor</b> for Group 1 in this course. I’ll be leading the majority of your lessons and guiding you throughout this course.</p>
-  <p>I’m an engineer specializing in full stack development and working with small start ups. I have worked with a wide range of technologies and teams in my career and look forward to sharing those experiences. I’m excited to be working with y’all throughout the next 3 months!</p>
-  <span><a href="https://github.com/ben-manning">GitHub</a> | <a href="https://www.linkedin.com/in/manningben/">LinkedIn</a></span>
-  <br>
-</div>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/At6UUjZ.png" alt="nabila">
-  <h3>Nabila Ayaba</h3>
-  <h4>Instructional Associate</h4>
-  <p>Hello, my name is Nabila and I'm the <b>Instructional Associate</b> for Group 1 for the duration of the Immersive.  I will provide support during lessons, grade your assignments, take attendance and help with troubleshooting.</p>
-  <p>I'm a barista-turned-software engineer whose hobbies include reading, collecting beautiful stationery, and eating copious amounts of jollof rice!  I  graduated from the GA Software Engineering Immersive in July of 2021, and can't wait to join all of you on this journey!</p>
-  <span><a href="https://github.com/nayaba">GitHub</a> | <a href="https://www.linkedin.com/in/nabila-ayaba/">LinkedIn</a> | <a href="https://nayaba.github.io/">My Personal Website</a></span>
-  <br>
-</div>
-
-____
-
-</p></details></li>
-
-<li><details><summary>Group 2</summary>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/xDwQZ7E.png" alt="jeremy">
-  <h3>Jeremy Taubman</h3>
-  <h4>Lead Instructor</h4>
-  <p>My name is Jeremy Taubman, I live outside of New York City and have been with GA since 2019. I will be the <b>Lead Instructor</b> for Group 2 for this immersive.</p>
-  <p>Outside of programming, I enjoy music, cooking, and solving crossword puzzles. I love learning new things, building up projects with Javascript and Python, and can make some of the best Ramen you’ll ever have.</p>
-  <span><a href="https://github.com/taubman33">GitHub</a> | <a href="https://www.linkedin.com/in/jeremy-taubman/">LinkedIn</a></span>
-  <br>
-</div>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/TkTJmAs.png" alt="brittany">
-  <h3>Brittany Morataya</h3>
-  <h4>Instructional Associate</h4>
-  <p>My name is Brittany and I will be your <b>Instructor Associate (IA)</b> for Group 2. I will be here as added support through your journey of becoming a software engineer.</p>
-  <p>As a GA graduate, I have been in your shoes and understand what it takes to get through such a course. As for my experience, with a focus in front-end design, I freelanced for multiple clients implementing skills from previous experience with managing teams, data collection, and communication to provide a positive and open space for colleagues and clients. This will be my second cohort as an IA and I am excited to guide and help shape your minds.</p>
-  <span><a href="https://github.com/bmorataya3">GitHub</a> | <a href="https://www.linkedin.com/in/brittany-morataya/">LinkedIn</a></span>
-  <br>
-</div>
-
-____
-
-</p></details></li>
-
-<li><details><summary>Group 3</summary>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/rh0nUDn.png" alt="john">
-  <h3>John Jacobs</h3>
-  <h4>Lead Instructor</h4>
-  <p>Hello! My name is John and I am one of the <b>Lead Instructors</b> for Group 3 of this Software Engineering Immersive. Michael Lackey and I will be leading lessons, grading your assignments, and managing the classroom environment.
-I have been with GA since January 2019 first as a student, then as Instructor Associate, and now as Instructor Lead. I love building personal projects and continuing to learn new technologies. ReactJS is my favorite tech and I actually enjoy the debugging process.</p>
-  <span><a href="https://github.com/GopherEverett">GitHub</a> | <a href="https://www.linkedin.com/in/john-a-jacobs/">LinkedIn</a> | <a href="https://www.johnandrewjacobs.com/">My Personal Website</a></span>
-  <br>
-</div>
 
 ____
 
@@ -106,7 +24,7 @@ ____
   <img width="200px" src="https://i.imgur.com/CtbHzuV.png" alt="michael">
   <h3>Michael Lackey</h3>
   <h4>Lead Instructor</h4>
-  <p>Hi! My name is Michael and I am one of the <b>Lead Instructors</b> for Group 3 for the duration of the Immersive!  Alongside John Jacobs, I will lead many of your lessons, grade your assignments, and will always be available for questions and debugging.</p>
+  <p>Hi! My name is Michael and I’ll be your <b>Lead Instructor</b> for the duration of the JSR-2-14 Course! My role will be to teach you everything you want to learn about JavaScript basics, and then take it even further by utilizing what we learn in JavaScript with the React Library to build some really awesome stuff!</p>
   <p>I am a software engineer with a proven track record in healthcare. I have a passion for people and love to tackle complex problems. As a seasoned leader, I am driven to help those I work with to see their potential. I’ve been with GA since 2020. I love styling with CSS and working with Front End dev frameworks like ReactJS!</p>
   <span><a href="https://github.com/mlackey9601">GitHub</a> | <a href="https://www.linkedin.com/in/michaelglackey/">LinkedIn</a> | <a href="https://michaellackey.com/">My Personal Website</a></span>
   <br>
@@ -114,134 +32,21 @@ ____
 
 ____
 
-</p></details></li>
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="filipe">
+  <h3>Filipe Marques</h3>
+  <h4>Instructional Associate</h4>
+<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
+<!--   <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span> -->
+  <br>
+</div>
+
+____
 
 </ul>
 
-</p></details></li>
-
-<li><details><summary><strong>Teaching Assistants</strong></summary><p>
-
-<p>TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</p>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/WW9uE5K.png" alt="glenn">
-  <h3>Glenn Brown</h3>
-  <h4>Teaching Assistant</h4>
-<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
-  <span><a href="https://github.com/smpr">GitHub</a> | <a href="https://www.linkedin.com/in/glenncrismanbrown/">LinkedIn</a></span>
-  <br>
-</div>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
-  <h3>Forest Traylor</h3>
-  <h4>Teaching Assistant</h4>
-<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
-<!--   <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span> -->
-  <br>
-</div>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
-  <h3>Sebastiano Foresi</h3>
-  <h4>Teaching Assistant</h4>
-<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
-<!--   <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span> -->
-  <br>
-</div>
-
-____
-
-</p></details></li>
-
-<li><details><summary><strong>Student Success</strong></summary><p>
-
-<p>This teams job is to ensure your success <i>during</i> the immersive. Any administrative, financial, or interpersonal questions can be directed to them.</p>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/RxiKXwx.png" alt="david">
-  <h3>David Allison</h3>
-  <h4>Student Success Specialist</h4>
-<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
-  <span><a href="https://www.linkedin.com/in/david-allison1/">LinkedIn</a></span>
-  <br>
-</div>
-
-<!-- ____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
-  <h3>Unknown</h3>
-  <h4>Student Success Specialist</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
-  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
-  <br>
-</div> -->
-
-____
-
-</p></details></li>
-
-<li><details><summary><strong>Outcomes Team</strong></summary><p>
-
-<p>This teams job is to ensure your success <i>after</i> the immersive is complete. Any job search, resume, LinkedIn, or interview questions can be directed to them.</p>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="brittany">
-  <h3>Brittany Dawson</h3>
-  <h4>Career Coach</h4>
-<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
-  <span><a href="https://www.linkedin.com/">LinkedIn</a></span>
-  <br>
-</div>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/Yj9mGfP.png" alt="lisa">
-  <h3>Lisa Dubler</h3>
-  <h4>Career Coach</h4>
-  <p>Lisa Dubler (she/her) is a Career Coach with 10+ years of experience supporting leaders at all levels, from recent college grads to senior executives, by connecting them with the resources that they need in order to thrive both personally and professionally.</p>
-  <p>As a career changer herself with experience in higher education, non-profit, media-tech, philanthropy, and tech-education, Lisa knows first-hand the challenges that come with navigating a career pivot. It can feel intimidating and overwhelming, but it does not need to be! Through a strengths and action-based approach, tailored to your short-term and long-term goals, Lisa helps job seekers breakthrough blockers to get to where they want to be.</p>
-  <span><a href="https://www.linkedin.com/in/lisadubler/">LinkedIn</a></span>
-  <br>
-</div>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/aaAVq6k.png" alt="jessica">
-  <h3>Jessica Li</h3>
-  <h4>Career Coach</h4>
-  <p>Hi There! I’m Jessica and I’m one of the <b>Career Coaches</b> for this immersive. I’ll be supporting you all as you transition into the world as a software developer. I’m based in sunny California, San Francisco to be exact <i>#karlthefog</i>. I’ve changed careers 2-3 times, so I kind-a get of how intimidating and scary this process can be. I’ve been working career changers to new grads on their job search since 2016. I’ve been with GA for a little over a year.</p>
-  <p>When I’m not working, you can find me on my yoga mat or find new recipes to cook in the kitchen! My most recent kitchen adventure accomplishment— apple custard pie with a cinnamon streusel (I even made the pie crust from scratch).</p>
-  <span><a href="https://www.linkedin.com/in/jmli3512/">LinkedIn</a></span>
-  <br><br>
-  <span><p><i>If you plan on adding me on LinkedIn, drop a note to let me know that you’re part of the SEI-R-2-22 cohort. I don’t accept connections from folks without a note.</i></p></span>
-</div>
-
-____
-
-</p></details></li>
-
-</ul></details>
+</details>
 
 ____
 <details><summary><strong>Class Policies</strong></summary><p>
@@ -271,7 +76,7 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 <li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
 
 <ul>
-  <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-2-22/template_pull_request">PR Guidelines</a>.</li>
+  <li>Deliverables must be submitted following the <a href="https://github.com/JSR-2-14/template_pull_request">PR Guidelines</a>.</li>
   <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
   <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
   <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.
@@ -288,14 +93,13 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 
 <ul>
   <li>Meet Project Requirements.
-    <ul><li>Satisfactorily complete and present a project for <i>each</i> of the <b>4</b> units.</li></ul>
+    <ul><li>Satisfactorily complete and present a project for <i>each</i> of the <b>3</b> units.</li></ul>
   </li>
   <li>Submit and complete a <i>minimum</i> of <b>80%</b> of deliverables (labs, homework, etc.).</li>
   <li>Adhere to attendance policy.
     <ul>
       <li>Students are allowed <b>3</b> absences over the <i>entire</i> course.</li>
       <li><b>3</b> tardies or early departures equals <b>1</b> absence.</li>
-      <li>Tardy policy <i>includes</i> Outcomes participation.</li>
     </ul>
   </li>
 </ul>
@@ -327,429 +131,245 @@ The following dates are observed Holidays for this immersive.  There will be no 
 </ul></details>
 
 ____
-<details><summary><strong>Unit 1</strong> - HTML | CSS | JavaScript</summary><p>
+
+<details><summary><strong>Unit 1</strong> - JavaScript Fundamentals</summary><p>
 
 <ul type="none">
 
-  <li><details><summary><strong>Week 1</strong></summary><p>
+<details><summary><strong>Week 1</strong></summary>
 
-  <p>
-  In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
-  </p>
+<p>
+In Week 1, we start off by getting all of our <b>Installations</b> done. We make sure we are all using <b>Slack</b>, the primary communication tool for our time at GA, and we make sure we are using one of the approved <b>browsers</b> for this course. Then we install <b>Homebrew</b>, which we will then use to install most of the other programs we will use throughout this course. In addition, we get our <b>Terminal</b> all set up.
+</p>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | President's Day | [Unit 1 Installations](https://github.com/SEI-R-2-22/u1_installations) | [Github / Homework Submission](https://github.com/SEI-R-2-22/u1_lesson_github) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
-  |  | [Terminal Lesson](https://github.com/SEI-R-2-22/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-2-22/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/SEI-R-2-22/u1_lesson_js_data_types) | [Intro to JS DOM](https://github.com/SEI-R-2-22/u1_lesson_intro_DOM) |
-  |  | [Git Lesson](https://github.com/SEI-R-2-22/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-2-22/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-2-22/u1_lesson_js_arrays) | [JS DOM Quotes Lab](https://github.com/SEI-R-2-22/u1_lab_DOM_quotes) |
-  |  | [VS Code Lesson](https://github.com/SEI-R-2-22/u1_lesson_VSCode) | [Fake Resume Lab](https://github.com/SEI-R-2-22/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEI-R-2-22/u1_lesson_loops_and_control_flow) | [JS Events](https://github.com/SEI-R-2-22/u1_lesson_js_events) |
-  |  | [Star Wars Homework](https://github.com/SEI-R-2-22/u1_hw_star_wars) | [Flexbox / Grid](https://github.com/SEI-R-2-22/u1_lesson_flex_grid) | [JS Functions](https://github.com/SEI-R-2-22/u1_lesson_js_functions) | [JS Dots Game Lab](https://github.com/SEI-R-2-22/u1_lab_dots) |
-  |  |  | [Markdown / ReadMe Homework](https://github.com/SEI-R-2-22/u1_hw_markdown) | [JS Scope](https://github.com/SEI-R-2-22/u1_lesson_js_scope) | [Tic Tac Toe Homework](https://github.com/SEI-R-2-22/u1_hw_tic_tac_toe) |
-  |  |  |  | [Control Flow Adventure Homework](https://github.com/SEI-R-2-22/u1_hw_control_flow_adventure) |  |
+| Monday: 2/14 | Wednesday: 2/16 |
+|:---:|:---:|
+| No Class | [Installations](https://ga-curriculum.vercel.app/docs/unit-1/installations) |
 
-  <ul type="none">
-
-  <li><details><summary>Class Recordings - Group 1</summary><p>
-
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/rRARzphk3JdN5y303Dq4251usT-d61AKOFtjrQCyzZXlJM7JyyeHC0CooZHY7UY.eK0-LlpXWwyj79AA) | [Recording](https://generalassembly.zoom.us/rec/share/721lccLe-Mb0JcUXk0mbFJvSR_L2D_RaBTr958SS4EgYMiAW7Ax1LWCrIXhaNQ.B0lHjvNrzwhoZXY0) | [Recording](https://generalassembly.zoom.us/rec/share/Aoa6XZv4H0tU77pkIh8lwFZLv5CUj5kFzoYY7VuKd1nRfyf10SW4JLaoIR9Q2odO.xIJNCAelLp64cDcK) | [Recording](https://urldefense.com/v3/__https://generalassembly.zoom.us/rec/share/BuF6OB5ALmAf1w[…]nfisGsg1ayOTI-j_62PmcubYvZJUVhDjFttNPbWLOGGyaf2bGFgeWyUED63A$) |
-  |  | Passcode: `j!s^jbz5` | Passcode: `hDbteR@1` | Passcode: `9UiGLFg^` | Passcode: `4Id^x^L!` |
-
-  </p></details></li>
-
-  <li><details><summary>Class Recordings - Group 2</summary><p>
-
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/s4PSqe-t5bVjaRuSelBLAsNjcngZEYCP1mIZ8KtOjEwohMG4JwyWqK-O60clHyqr.moz82Vt_zHAEl9KW) | [Recording](https://generalassembly.zoom.us/rec/share/kZYh0nGB2xttYT5wJsftaLyxLtu_NYHU5XD2qjWl138KU1O7TsLW7YVMItLjQR8.0MHpc_nkFZmsyPpw) | [Recording](https://generalassembly.zoom.us/rec/share/V0IgvtBVsZIbeSI-ft6TIp9poPYweubeA_b3lDbZ1yMPDWKnEwVGi2xwcGBgpJx0.Z8Z2qhbY0O_YaHOC ) | [Recording](https://generalassembly.zoom.us/rec/share/OPoNnLfcYS2Bf-4H1fUrmUfqxcl62YeY4mWR6Sp8hFUj8FyGQa4HXHW2oXoYSSo.1vnSnKo0qYDkbLlE) |
-  |  | Passcode: `.L+06ej9` | Passcode: `k0yi!?y&` | Passcode: `6q0!HxR%` | Passcode: `X&nV!!9$` |
-
-  </p></details></li>
-
-  <li><details><summary>Class Recordings - Group 3</summary><p>
-
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/na5o8zJmIoTLCPGLUkcIWH1oXcLpp3KKPiDzMDmGwHR5WA7v7vCnG8aVcbX4yW0L.rgYxI-945NZEtdra) | [Recording](https://generalassembly.zoom.us/rec/share/KckB_OA9IiortPxZrsSxcypHDWYpUIsr9Ei55EGvhgjegE-wEQexUV9ruuYzD_h-.kYebdqpvxVnlmUpW) | [Recording](https://generalassembly.zoom.us/rec/share/wLZV-tyKkVavyjyqVk1Ev11Aj807nAw3H3ptUw6sOJxJvdNV0c_Q8_it5vxWP3kP._z3AGIYe4O6RfWSq) | [Recording](https://generalassembly.zoom.us/rec/share/BSlY_VvAq7wREpfXEnJ2gQS5WAjQzVZols84OuI4DNs19dPZiK3PtKWmb3vJeN2X.eoHcYo5k4wE4I_Ug) |
-  |  | Passcode: `2v!*MfHr` | Passcode: `5Fgvm*2q` | Passcode: `ik+9z54e` | Passcode: `5r*tHpd?` |
-
-  </p></details></li>
-
-  </ul>
-
-  ___
-  </p></details></li>
-
-  <li><details><summary><strong>Week 2</strong></summary><p>
-
-  <p>
-  In Week 2, we practice more <b>DOM Manipulation</b> and are introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem solving. We learn about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript. At the end of the week, we learn how to call on external data sources with <b>APIs</b>.
-  </p>
-
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Tic Tac Toe Work Time](https://github.com/SEI-R-2-22/u1_hw_tic_tac_toe) | [Intro Daily JS Challenges](https://github.com/SEI-R-2-22/daily_js_challenges) | [JS HOF](https://github.com/SEI-R-2-22/u1_lesson_HOF) | [Box Model Practice](https://github.com/SEI-R-2-22/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-2-22/u1_lesson_intro_to_APIs) |
-  |  | [JS Objects](https://github.com/SEI-R-2-22/u1_lesson_js_objects) | [JS HOF Lab](https://github.com/SEI-R-2-22/u1_lab_HOF) | [Intro to OOP](https://github.com/SEI-R-2-22/u1_lesson_OOP) | [Dogs API Lab](https://github.com/SEI-R-2-22/u1_lab_API_dogs) |
-  |  | [Jurassic Objects Lab](https://github.com/SEI-R-2-22/u1_lab_jurassic_objects) | [JS HOF Homework](https://github.com/SEI-R-2-22/u1_hw_HOF) | [OOP Exercise Lab](https://github.com/SEI-R-2-22/u1_lab_OOP_exercise) | [TMDB Lab / Homework](https://github.com/SEI-R-2-22/u1_lab_TMDB_API) |
-  |  | [ES6 Syntax](https://github.com/SEI-R-2-22/u1_lesson_ES6) |  | [Donut Adventure Lab](https://github.com/SEI-R-2-22/u1_lab_donut_adventure) | [P1 Prompt](https://github.com/SEI-R-2-22/u1_project_prompt) |
-  |  | [ES6 Lab](https://github.com/SEI-R-2-22/u1_lab_ES6_practice) |  | [JS Fast & Furious Homework](https://github.com/SEI-R-2-22/u1_hw_fast_and_furious) |  |
-  |  | [CodeWars Homework](https://github.com/SEI-R-2-22/u1_hw_codewars_challenges) |  |  |  |
-
-  <ul type="none">
-
-  <li><details><summary>Class Recordings - Group 1</summary><p>
-
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/PUQDZgpoGixIygIlPUcYsKOaF_l9JDeMhkLkcW3JOvFexEY2eKLE1smp10cXwmvk.eDZ7Z9otb2L9q1Pu) | [Recording](https://generalassembly.zoom.us/rec/share/IVTO9WmSpSsLpgP8PbpmM0Krh7TIsEt117gkKOuXSaSB5m7HURwGGDc7WTFifIE3.8ArFknoIe9cxwVgx) | [Recording](https://generalassembly.zoom.us/rec/share/bUlQ8beQFAjJ1AWvzlDm6tqQDK1OnXTCy550sVLsvHpjJ90VeJWw6iVKIJ9rdSZ_.WoT6QC2NvwyDJhrF) | [Recording](https://generalassembly.zoom.us/rec/share/LqhJp6A4Syz5rOpTuflXNYKu9t7hjbVMVRHutbsscc_ihtH6ModmCcOi85HeA7m7.Ne5KPqrZpzaUHjp5) |
-  |  | Passcode: `q7?dg5q$` | Passcode: `dhZU4jK$` | Passcode: `u%=Z&3qP` | Passcode: `n4hLF^$5` |
-
-  </p></details></li>
-
-  <li><details><summary>Class Recordings - Group 2</summary><p>
-
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/HRgknB9H971OVRZGIWG73uKZ6ebYmagxkhaTzuo9A-7MuxASGwq6UGY9QrBLis4L.ZedA3rPq6vGtqcrW) | [Recording](https://generalassembly.zoom.us/rec/share/BQLyrGzgzT2M81N4PfQL0U2hcOQpGzYXqovlEyc1KYCcNQTRkAjVT-7MtWrrvlE_.GoB9TvCGeWnSBpKa) | [Recording](https://generalassembly.zoom.us/rec/share/1vkRBHNXgNJjrx59JaGnd4tbvB576VHU5IzRGRl_HOfMWeYIMtUJP5KStwSBjeGh.wSGlfDWq2sSuNXwE) | [Recording](https://generalassembly.zoom.us/rec/share/FOe4PdPAQKsKFKo9ERqrqAblLGO9cbzM8TmgcZqrKlFm38f3FTzTJq_6_EhOWEKp.OXrxdCVaC1JUpbwL) |
-  |  | Passcode: `1zNN#Jpe` | Passcode: `4Lq!sK&+` | Passcode: `8Fpq5?Hd` | Passcode: `#EAKv8js` |
-
-  </p></details></li>
-
-   <li><details><summary>Class Recordings - Group 3</summary><p>
-
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/vhKLQszO_AVWDyp3EYIFStcE1SNghLvbTrMc2WcUn5-OM_R1B-8RrxaTAboWmswB.FHEZthAlPBrqY1g8) | [Recording](https://generalassembly.zoom.us/rec/share/r84eqUeLp-JGaNmPV2w3GZf-mdK_u0O_o0wT3iy-_oYQex_RXLJ2rdyXEb-TKI4F.Oo47LJdb7dgL_QBi) | [Recording](https://generalassembly.zoom.us/rec/share/bOCIqz_eej9ncR1YQAxkyQmErZTERTeyulI9Ze8Hxxb1K4523Adv2u2rdaBYz8TY.UVInEmSTahxyLodR) | [Recording](https://generalassembly.zoom.us/rec/share/bfLq7BxJohHhA8I9adKj9COVmCl-lm5hRoqaBJJkO8SMp9xL7EaT7V390bXIAEz-.Szw4mEuD8bQS15cV) |
-  |  | Passcode: `hCV%2rxC` | Passcode: `EK*iP=7w` | Passcode: `ddZ44M.B` | Passcode: `Wiye07#L` |
-
-  </p></details></li>
-
-  </ul>
-
-  </p></details></li>
-
-</p></details>
-
-___
-<details><summary><strong>Unit 2</strong> - React | MongoDB | Express</summary><p>
 
 <ul type="none">
 
-  <li><details><summary><strong>Week 4</strong></summary><p>
+<details><summary>Class Recordings</summary>
 
-   <p>
-     In Week 4, we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps.
-  </p>
+| Monday: 2/14 | Wednesday: 2/16 |
+|:---:|:---:|
+| No Recording | [Recording](https://generalassembly.zoom.us/rec/share/WN5aVnpDaAwShk32-d3PpnSXNb6iSvYyDD7tnJ7ZzoYKKAXSwXZ3n9DzvNUiqiN5.ArisKG_MpxD6ltZT) |
+|  | Passcode: `%&7RWHmk` |
 
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() | -->
+</ul>
 
-<!--   <ul type="none">
+</details>
 
-  <li><details><summary>Class Recordings - Group 1</summary><p>
+<details><summary><strong>Week 2</strong></summary>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+<p>
+In Week 2, we make sure we have a solid understanding of how to use the <b>Command Line</b>. We also discuss the fundamental aspects of using <b>GitHub</b> as our remote repository host. We also begin to learn about the basic <b>data types</b> in JavaScript.
+</p>
 
-  </p></details></li>
-
-  <li><details><summary>Class Recordings - Group 2</summary><p>
-
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
-
-  </p></details></li>
-
-   <li><details><summary>Class Recordings - Group 3</summary><p>
-
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
-
-  </p></details></li>
-
-  </ul> -->
-
-  ___
-  </p></details></li>
-
-  <li><details><summary><strong>Week 5</strong></summary><p>
-
-  <p>
-  In Week 5, we move into more complicated React Hooks like <b>useEffect</b> and <b>useReducer</b>.  We learn about the idea of <b>conditional rendering</b> and how we can use our user's input to influence our output.  We are also introduced to <b>React Router</b> and get to see how it gives us powerful new tools to build our React Apps. Then we are introduced to back-end and get to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learn how to implement <b>controllers</b>.  We then get a taste of <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data.
-  </p>
-
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
- -->
-<!--   <ul type="none">
-
-  <li><details><summary>Class Recordings - Group 1</summary><p>
-
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
-
-  </p></details></li>
-
-  <li><details><summary>Class Recordings - Group 2</summary><p>
-
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
-
-  </p></details></li>
-
-   <li><details><summary>Class Recordings - Group 3</summary><p>
-
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
-
-  </p></details></li>
-
-  </ul> -->
-
-  </p></details></li>
-
-</p></details>
-
-___
-<details><summary><strong>Unit 3</strong> - React Redux | PostgreSQL | Sequelize</summary><p>
+| Monday: 2/21 | Wednesday: 2/23 |
+|:---:|:---:|
+| President's Day | [Command Line & GitHub](https://ga-curriculum.vercel.app/docs/unit-1/command-line-js) |
+|  | [JS Data Types](https://ga-curriculum.vercel.app/docs/unit-1/data-types) |
 
 <ul type="none">
 
-  <li><details><summary><strong>Week 7</strong></summary><p>
+<details><summary>Class Recordings</summary>
 
-  <p>
-  In Week 7, we are introduced to <b>React Redux</b> as a new way to manage our state in React! We learn about <b>Reducers</b>, <b>Actions</b>, and <b>Types</b>. We also learn how to map our state and actions to props. We also learn how to use a middleware called <b>thunk</b> in conjunction with Redux. We are introduced to <b>SQL databases</b> and start to learn SQL commands to interact with our database.  We also learn about the concept of <b>SQL Joins</b>.
-  </p>
+| Monday: 2/21 | Wednesday: 2/23 |
+|:---:|:---:|
+| No Recording | [Recording](https://generalassembly.zoom.us/rec/share/Q0cRNUvMeS5IhmqE9kgcqx9ThCIQ9JkFYMPe3ljqJog90Gw8ZPVu2D0942ddfl4.t5BFb-JmkOqEl633) |
+|  | Passcode: `aTK5#XP4` |
 
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
- -->
-<!--   <ul type="none">
+</ul>
 
-  <li><details><summary>Class Recordings - Group 1</summary><p>
+</details>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+<details><summary><strong>Week 3</strong></summary>
 
-  </p></details></li>
+<p>
+In Week 3, we cover <b>conditional</b> statements in JavaScript as well as <b>loops</b>. Then we move into <b>functions</b> and how <b>scope</b> works in JavaScript.
+</p>
 
-  <li><details><summary>Class Recordings - Group 2</summary><p>
-
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
-
-  </p></details></li>
-
-   <li><details><summary>Class Recordings - Group 3</summary><p>
-
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
-
-  </p></details></li>
-
-  </ul>
- -->
-  ___
-  </p></details></li>
-
-  <li><details><summary><strong>Week 8</strong></summary><p>
-
-  <p>
-  In Week 8, we learn all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers.  We learn how to make <b>queries</b>, <b>migrations</b>, and <b>associations</b>.  We also learn all about how to integrate <b>user authentication</b> in our apps.
-  </p>
-
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() | -->
-
-<!--   <ul type="none">
-
-  <li><details><summary>Class Recordings - Group 1</summary><p>
-
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
-
-  </p></details></li>
-
-  <li><details><summary>Class Recordings - Group 2</summary><p>
-
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
-
-  </p></details></li>
-
-   <li><details><summary>Class Recordings - Group 3</summary><p>
-
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
-
-  </p></details></li>
-
-  </ul> -->
-
-  </p></details></li>
-
-</p></details>
-
-___
-<details><summary><strong>Unit 4</strong> - Vue.js | Python | Django</summary><p>
+| Monday: 2/28 | Wednesday: 3/2 |
+|:---:|:---:|
+| [Conditionals & Loops](https://ga-curriculum.vercel.app/docs/unit-1/conditionals-and-loops) | [Functions & Scope](https://ga-curriculum.vercel.app/docs/unit-1/functions-and-scope) |
+|  | [Mad Libs Homework](https://ga-curriculum.vercel.app/docs/exercises/madlibs) |
 
 <ul type="none">
 
-  <li><details><summary><strong>Week 10</strong></summary><p>
+<details><summary>Class Recordings</summary>
 
-  <p>
-  In Week 10, we learn a new framework called <b>Vue.js</b> and how it is set up differently than React and other libraries we've used. We learn how to use <b>State Methods</b>, <b>Directives</b>, <b>Events</b>, and <b>Emitters</b> in Vue. We also learn how to use Vue with APIs, and how to use <b>Vue Router</b> to direct our page. Later in the week, we are introduced to <b>Python</b> and learn about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>.
-  </p>
+| Monday: 2/28 | Wednesday: 3/2 |
+|:---:|:---:|
+| [Recording](https://generalassembly.zoom.us/rec/share/EeAu6rMbFNex0-fQE0QbphWRkQqhed1VUOQGDYQKv4NFPw36hzyILbGMytRmVgQu.e8u2VJMrX26wxhPY) | [Recording](https://generalassembly.zoom.us/rec/share/XAzsAJK_uJABlgbusIW1DDicBqMbrVg5NOs1KOZ74sNVqzHV_83XSHrQL1v19u3u.l177QLZAoPWLw130) |
+| Passcode: `tDG1=5Y%` | Passcode: `&13Xb^pJ` |
 
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
- -->
-<!--   <ul type="none">
+</ul>
 
-  <li><details><summary>Class Recordings - Group 1</summary><p>
+</details>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+<details><summary><strong>Week 4</strong></summary>
 
-  </p></details></li>
+<p>
+In Week 4, we go in depth with JavaScript <b>objects</b> and what a powerful data structure they can be. We are also introduced to our <b>first project</b>, a Choose Your Own Adventure game!
+</p>
 
-  <li><details><summary>Class Recordings - Group 2</summary><p>
+| Monday: 3/7 | Wednesday: 3/9 |
+|:---:|:---:|
+| [JS Objects](https://ga-curriculum.vercel.app/docs/unit-1/objects-and-json) | [Intro to Project 1](https://ga-curriculum.vercel.app/docs/projects/CYOA) |
+| [Jurassic Objects Lab](https://ga-curriculum.vercel.app/docs/exercises/jurassic-objects) |  |
 
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+<ul type="none">
 
-  </p></details></li>
+<details><summary>Class Recordings</summary>
 
-   <li><details><summary>Class Recordings - Group 3</summary><p>
+| Monday: 3/7 | Wednesday: 3/9 |
+|:---:|:---:|
+| [Recording](https://generalassembly.zoom.us/rec/share/V8t9JHNppbTM3BIZQHqgoZkbeJ030vaHNX8X8TGMidzT8LPGhQMs2Wj5pH2zxO2p.XwfMoTo62a65iM3J) | [Recording]() |
+| Passcode: `wg8s+WNw` | Passcode: ` ` |
 
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+</ul>
 
-  </p></details></li>
+</details>
 
-  </ul>
- -->
-  ___
-  </p></details></li>
+</details>
 
-  <li><details><summary><strong>Week 11</strong></summary><p>
+____
 
-  <p>
-  In Week 11, we continue with Python by learning about <b>tuples</b> and <b>OOP</b> in Python. We then get a quick intro to <b>Django</b> and how to set up Auth in Django. At the end of the week, we get to participate in a <b>Djangathon</b>!
-  </p>
+<details><summary><strong>Unit 2</strong> - JavaScript & The DOM</summary><p>
 
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
- -->
-<!--   <ul type="none">
+<!-- <ul type="none">
 
-  <li><details><summary>Class Recordings - Group 1</summary><p>
+<details><summary><strong>Week 1</strong></summary>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+<p>
+In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
+</p>
 
-  </p></details></li>
+| Monday | Wednesday |
+|:---:|:---:|
+| []() | []() |
+| []() | []() |
+| []() | []() |
+| []() | []() |
+| []() | []() |
 
-  <li><details><summary>Class Recordings - Group 2</summary><p>
 
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+<ul type="none">
 
-  </p></details></li>
+<details><summary>Class Recordings</summary>
 
-   <li><details><summary>Class Recordings - Group 3</summary><p>
+| Monday | Wednesday |
+|:---:|:---:|
+| [Recording]() | [Recording]() |
+| Passcode: ` ` | Passcode: ` ` |
 
- | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+</ul>
 
-  </p></details></li>
+</details>
 
-  </ul> -->
+<details><summary><strong>Week 2</strong></summary>
 
-  </p></details></li>
+<p>
+In Week 2, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
+</p>
 
-</p></details>
+| Monday | Wednesday |
+|:---:|:---:|
+| []() | []() |
+| []() | []() |
+| []() | []() |
+| []() | []() |
+| []() | []() |
 
-___
+
+<ul type="none">
+
+<details><summary>Class Recordings</summary>
+
+| Monday | Wednesday |
+|:---:|:---:|
+| [Recording]() | [Recording]() |
+| Passcode: ` ` | Passcode: ` ` |
+
+</ul>
+
+<br>
+
+</details> -->
+
+</details>
+
+____
+
+<details><summary><strong>Unit 3</strong> - JavaScript React</summary><p>
+
+<!-- <ul type="none">
+
+<details><summary><strong>Week 1</strong></summary>
+
+<p>
+In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
+</p>
+
+| Monday | Wednesday |
+|:---:|:---:|
+| []() | []() |
+| []() | []() |
+| []() | []() |
+| []() | []() |
+| []() | []() |
+
+
+<ul type="none">
+
+<details><summary>Class Recordings</summary>
+
+| Monday | Wednesday |
+|:---:|:---:|
+| [Recording]() | [Recording]() |
+| Passcode: ` ` | Passcode: ` ` |
+
+</ul>
+
+</details>
+
+<details><summary><strong>Week 2</strong></summary>
+
+<p>
+In Week 2, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
+</p>
+
+| Monday | Wednesday |
+|:---:|:---:|
+| []() | []() |
+| []() | []() |
+| []() | []() |
+| []() | []() |
+| []() | []() |
+
+
+<ul type="none">
+
+<details><summary>Class Recordings</summary>
+
+| Monday | Wednesday |
+|:---:|:---:|
+| [Recording]() | [Recording]() |
+| Passcode: ` ` | Passcode: ` ` |
+
+</ul>
+
+<br>
+
+</details> -->
+
+</details>
+
+____
+
+</details>
+
 <details><summary><strong>Additional Resources</strong></summary><p>
 
 Below is a list of additional resources that were hand-picked by your instructors. If you find that you don't have the time during the immersive, these resources will still help to solidify your understanding of key concepts after graduation.
@@ -783,7 +403,6 @@ Below is a list of additional resources that were hand-picked by your instructor
   - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   - [W3Schools CSS Docs](https://www.w3schools.com/cssref/default.asp)
   - [React Docs](https://reactjs.org/docs/getting-started.html)
-  - [Django Docs](https://docs.djangoproject.com/en/4.0/)
 
   </p></details></li>
 
@@ -795,11 +414,10 @@ Below is a list of additional resources that were hand-picked by your instructor
   - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
   - [JavaScript Cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
   - [ES6 Cheatsheet](https://devhints.io/es6)
-  - [ERD Cheatsheet](https://drive.google.com/file/d/0B_spkK3eZiHmZTZhczVTaVZxUFU/view?resourcekey=0-pvJ1STXJ4xEpjqpFWQtUhg)
   </p></details></li>
 
   </ul>
 
 </p></details>
 
-___
+____
