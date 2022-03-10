@@ -226,8 +226,8 @@ In Week 4, we go in depth with JavaScript <b>objects</b> and what a powerful dat
 
 | Monday: 3/7 | Wednesday: 3/9 |
 |:---:|:---:|
-| [Recording](https://generalassembly.zoom.us/rec/share/V8t9JHNppbTM3BIZQHqgoZkbeJ030vaHNX8X8TGMidzT8LPGhQMs2Wj5pH2zxO2p.XwfMoTo62a65iM3J) | [Recording]() |
-| Passcode: `wg8s+WNw` | Passcode: ` ` |
+| [Recording](https://generalassembly.zoom.us/rec/share/V8t9JHNppbTM3BIZQHqgoZkbeJ030vaHNX8X8TGMidzT8LPGhQMs2Wj5pH2zxO2p.XwfMoTo62a65iM3J) | [Recording](https://generalassembly.zoom.us/rec/share/KHzyOtoXP3GsmCu-P5aeLWeclfb5P8JB8xR04jeKC6Jho9vRQRarzpPvHVEvpQ.0ZmbbR9Xuci2AVsF) |
+| Passcode: `wg8s+WNw` | Passcode: `0Awy=VT&` |
 
 </ul>
 
