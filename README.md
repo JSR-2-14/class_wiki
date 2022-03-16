@@ -12,6 +12,13 @@ This repository is a place where links to all of the course content that we cove
 
 Deliverable Pull Request Guidelines can be found [here](https://github.com/JSR-2-14/template_pull_request).
 
+To push your code to GitHub:
+```
+git add .
+git commit -m 'some message'
+git push origin main
+```
+
 ____
 
 <details><summary><strong>General Assembly Team</strong></summary>
