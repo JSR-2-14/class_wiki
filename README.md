@@ -336,7 +336,7 @@ ____
 <details><summary><strong>Week 8</strong></summary>
 
 <p>
-  In Week 8, we learn a more efficient way to get our components on the page by <b>mapping</b> through our data.
+  In Week 8, we learn a more efficient way to get our components on the page by <b>mapping</b> through our data. Then we practice with a big lab as we map through movie data to create a web page.
 </p>
 
 | Monday | Wednesday |
@@ -359,6 +359,60 @@ ____
 <br>
 
 </details>
+  
+<!-- <details><summary><strong>Week 9</strong></summary>
+
+<p>
+  In Week 9, we get into a heavier concept with React: <b>State & Hooks</b>, and we learn how to use these new tools to more effectively craft our pages. Then we practice by building out an ATM with <b>useState</b>. Then we learn about another hook called <b>useEffect</b>.
+</p>
+
+| Monday | Wednesday |
+|:---:|:---:|
+| [Intro to Hooks & State](https://ga-curriculum.vercel.app/docs/unit-3/intro-state-hooks) | [Hooks ATM](https://ga-curriculum.vercel.app/docs/exercises/hooks-atm) |
+|  | [useEffect](https://ga-curriculum.vercel.app/docs/unit-3/useEffect) |
+
+
+<ul type="none">
+
+<details><summary>Class Recordings</summary>
+
+| Monday | Wednesday |
+|:---:|:---:|
+| [Recording]() | [Recording]() |
+| Passcode: ` ` | Passcode: ` ` |
+
+</ul>
+
+<br>
+
+</details> -->
+  
+<!-- <details><summary><strong>Week 9</strong></summary>
+
+<p>
+  In Week 10, we learn how to make <b>API calls with React</b> by utilizing useEffect and get to practice that by doing a Kanye West lab.
+</p>
+
+| Monday | Wednesday |
+|:---:|:---:|
+| [React w/ APIs](https://ga-curriculum.vercel.app/docs/unit-3/react-APIs) | [Intro to Project 3](https://ga-curriculum.vercel.app/docs/unit-3/intro-to-react-APIs) |
+| [Kanye useEffect Lab / HW](https://ga-curriculum.vercel.app/docs/exercises/kanye-useEffect) |  |
+
+
+<ul type="none">
+
+<details><summary>Class Recordings</summary>
+
+| Monday | Wednesday |
+|:---:|:---:|
+| [Recording]() | [Recording]() |
+| Passcode: ` ` | Passcode: ` ` |
+
+</ul>
+
+<br>
+
+</details> -->
 
 </details>
 
