@@ -246,22 +246,19 @@ ____
 
 <details><summary><strong>Unit 2</strong> - JavaScript & The DOM</summary><p>
 
-<!-- <ul type="none">
+<ul type="none">
 
-<details><summary><strong>Week 1</strong></summary>
+<details><summary><strong>Week 5</strong></summary>
 
 <p>
-In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
+In Week 5, we are introduced to the <b>DOM</b>. Then we get some practice working with it by trying to fix up a certain someone's broken website. Then, we learn about JavaScript <b>events</b> that can affect the DOM. Finally, we cover <b>Higher Order Functions</b> and how they can make our code more efficient and easier to write.
 </p>
 
 | Monday | Wednesday |
 |:---:|:---:|
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-
+| [Intro to the DOM](https://ga-curriculum.vercel.app/docs/unit-2/intro-to-dom) | [DOM Events](https://ga-curriculum.vercel.app/docs/unit-2/dom-events) |
+| [Fast & Furious Lab](https://ga-curriculum.vercel.app/docs/exercises/js-fast-and-furious) | [Higher Order Functions](https://ga-curriculum.vercel.app/docs/unit-2/higher-order-functions) |
+| []() | [Higher Order Functions Lab](https://ga-curriculum.vercel.app/docs/exercises/hof) |
 
 <ul type="none">
 
@@ -269,26 +266,22 @@ In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b
 
 | Monday | Wednesday |
 |:---:|:---:|
-| [Recording]() | [Recording]() |
-| Passcode: ` ` | Passcode: ` ` |
+| [Recording](https://generalassembly.zoom.us/rec/share/MlmL_yeQmZwjaQV6tVjhoUguBafdmlCa2-4558Cakg_ShtzXC_RScF7e8xvQtypG.XyzuQGEVh8oeWoyW) | [Recording](https://generalassembly.zoom.us/rec/share/lfnfNeOcw9AJzvCKBoVa5SfIPcWH2RS0GhN0iN0YXsQHOLAUmgrxB0P-vIQlMD0.1oaxIzqL61EOKdNV) |
+| Passcode: `2.qHw31x` | Passcode: `82&W6j+e` |
 
 </ul>
 
 </details>
 
-<details><summary><strong>Week 2</strong></summary>
+<details><summary><strong>Week 6</strong></summary>
 
 <p>
-In Week 2, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
+  In Week 6, we learn how to make <b>axios</b> calls to <b>APIs</b> in order to flesh our apps out with robust data.
 </p>
 
 | Monday | Wednesday |
 |:---:|:---:|
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
+| [JS & APIs](https://ga-curriculum.vercel.app/docs/unit-2/js-and-apis) | [Intro to Project 2](https://ga-curriculum.vercel.app/docs/unit-2/intro-to-API-site) |
 
 
 <ul type="none">
@@ -297,14 +290,14 @@ In Week 2, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b
 
 | Monday | Wednesday |
 |:---:|:---:|
-| [Recording]() | [Recording]() |
-| Passcode: ` ` | Passcode: ` ` |
+| [Recording](https://generalassembly.zoom.us/rec/share/Xlax8piqTRw9VB-wVqUOiNZk5jh5itZUY3O1u7HY5HISAZOMZIq3rCW--W_FnaXn.yqv8NSw9SA3iDLZC) | No Recording |
+| Passcode: `V6zGE!h9` |  |
 
 </ul>
 
 <br>
 
-</details> -->
+</details>
 
 </details>
 
@@ -312,21 +305,19 @@ ____
 
 <details><summary><strong>Unit 3</strong> - JavaScript React</summary><p>
 
-<!-- <ul type="none">
+<ul type="none">
 
-<details><summary><strong>Week 1</strong></summary>
+<details><summary><strong>Week 7</strong></summary>
 
 <p>
-In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
+  In Week 7, we learn how we can use JavaScript with external libraries like <b>React</b> to make our web pages even more dynamic. We learn how <b>components</b> in React can make our code more modular and reusable. Then we learn how the relationships between our components matter by building out <b>Component Hierarchy Diagrams</b>. We learn to pass <b>props</b> between our components and get to practice this concept with a fun Lord of the Rings lab.
 </p>
 
 | Monday | Wednesday |
 |:---:|:---:|
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
+| [Intro to React](https://ga-curriculum.vercel.app/docs/unit-3/intro-react) | [Component Hierarchy Diagrams](https://ga-curriculum.vercel.app/docs/unit-3/component-hierarchy) |
+| [React Components](https://ga-curriculum.vercel.app/docs/unit-3/react-components) | [React Props](https://ga-curriculum.vercel.app/docs/unit-3/react-props) |
+| []() | [React LOTR Lab](https://ga-curriculum.vercel.app/docs/exercises/react-lotr) |
 
 
 <ul type="none">
@@ -335,26 +326,23 @@ In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b
 
 | Monday | Wednesday |
 |:---:|:---:|
-| [Recording]() | [Recording]() |
-| Passcode: ` ` | Passcode: ` ` |
+| [Recording](https://generalassembly.zoom.us/rec/share/c0nGfVHvBB27VB-k0X63tHDsewDyJ6zBeO5oeoR3TlvqViVXGlSZUo_Gn6KQX5EJ.oiHb23nsyGkzrK48) | [Recording](https://generalassembly.zoom.us/rec/share/El8ETG4uhF2s7_McanWePFL9bLsVQU1Bt2dcRBLEnJ5DNZz1AwzgX_T07MjcnvdB.YTFNHFZ1xqQdYeA6) |
+| Passcode: `!kSn4&RL` | Passcode: `Em=?9U61` |
 
 </ul>
 
 </details>
 
-<details><summary><strong>Week 2</strong></summary>
+<details><summary><strong>Week 8</strong></summary>
 
 <p>
-In Week 2, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
+  In Week 8, we learn a more efficient way to get our components on the page by <b>mapping</b> through our data.
 </p>
 
 | Monday | Wednesday |
 |:---:|:---:|
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
+| [Mapping Components](https://ga-curriculum.vercel.app/docs/unit-3/mapping-components) | [Movie Mapping](https://ga-curriculum.vercel.app/docs/exercises/movie-mapping) |
+| [Mapping Contacts](https://ga-curriculum.vercel.app/docs/exercises/mapping-components) |  |
 
 
 <ul type="none">
@@ -363,14 +351,14 @@ In Week 2, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b
 
 | Monday | Wednesday |
 |:---:|:---:|
-| [Recording]() | [Recording]() |
-| Passcode: ` ` | Passcode: ` ` |
+| [Recording](https://generalassembly.zoom.us/rec/share/_jd-86tS2nM4UI_toxd-rUt8QVmm-5iDJ8hamPSRgLatCHyjY0BY7Rgsjqa_v36z.aauF_EBfULNOmxMd) | [Recording]() |
+| Passcode: `DX%y%l+7` | Passcode: ` ` |
 
 </ul>
 
 <br>
 
-</details> -->
+</details>
 
 </details>
 
