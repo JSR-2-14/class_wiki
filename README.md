@@ -351,8 +351,8 @@ ____
 
 | Monday | Wednesday |
 |:---:|:---:|
-| [Recording](https://generalassembly.zoom.us/rec/share/_jd-86tS2nM4UI_toxd-rUt8QVmm-5iDJ8hamPSRgLatCHyjY0BY7Rgsjqa_v36z.aauF_EBfULNOmxMd) | [Recording]() |
-| Passcode: `DX%y%l+7` | Passcode: ` ` |
+| [Recording](https://generalassembly.zoom.us/rec/share/_jd-86tS2nM4UI_toxd-rUt8QVmm-5iDJ8hamPSRgLatCHyjY0BY7Rgsjqa_v36z.aauF_EBfULNOmxMd) | [Recording](https://generalassembly.zoom.us/rec/share/nzZ0bMimz7hwT3g_Ce4ab8X5IfRLBl8kzVACfpqzmmzejzSxtk8W26kWDhdeo2VQ.4AMB2MpUB1CUQM-L) |
+| Passcode: `DX%y%l+7` | Passcode: `y5mr+E^h` |
 
 </ul>
 
@@ -360,7 +360,7 @@ ____
 
 </details>
   
-<!-- <details><summary><strong>Week 9</strong></summary>
+<details><summary><strong>Week 9</strong></summary>
 
 <p>
   In Week 9, we get into a heavier concept with React: <b>State & Hooks</b>, and we learn how to use these new tools to more effectively craft our pages. Then we practice by building out an ATM with <b>useState</b>. Then we learn about another hook called <b>useEffect</b>.
@@ -378,14 +378,14 @@ ____
 
 | Monday | Wednesday |
 |:---:|:---:|
-| [Recording]() | [Recording]() |
-| Passcode: ` ` | Passcode: ` ` |
+| [Recording](https://generalassembly.zoom.us/rec/share/U_UXobJ6O1yUoFXBD7L0nJQt0NdQC4sLuOp9LUAjGYE2sROb35Aka4b9wwsZOBQZ.Y7N9DqrBBo-CCH_G) | [Recording]() |
+| Passcode: `3bNia=js` | Passcode: ` ` |
 
 </ul>
 
 <br>
 
-</details> -->
+</details>
   
 <!-- <details><summary><strong>Week 9</strong></summary>
 
