@@ -378,8 +378,8 @@ ____
 
 | Monday | Wednesday |
 |:---:|:---:|
-| [Recording](https://generalassembly.zoom.us/rec/share/U_UXobJ6O1yUoFXBD7L0nJQt0NdQC4sLuOp9LUAjGYE2sROb35Aka4b9wwsZOBQZ.Y7N9DqrBBo-CCH_G) | [Recording]() |
-| Passcode: `3bNia=js` | Passcode: ` ` |
+| [Recording](https://generalassembly.zoom.us/rec/share/U_UXobJ6O1yUoFXBD7L0nJQt0NdQC4sLuOp9LUAjGYE2sROb35Aka4b9wwsZOBQZ.Y7N9DqrBBo-CCH_G) | [Recording](https://generalassembly.zoom.us/rec/share/MHvjEnsljL7egnKSbJ65vtO6zKBq6vcBuHYHnAMXNfnkELKiwc2JF7ah-nsuVSln.bJHQUWUKaHrud4qX) |
+| Passcode: `3bNia=js` | Passcode: `D&hw1jjR` |
 
 </ul>
 
