@@ -387,7 +387,7 @@ ____
 
 </details>
   
-<!-- <details><summary><strong>Week 9</strong></summary>
+<details><summary><strong>Week 9</strong></summary>
 
 <p>
   In Week 10, we learn how to make <b>API calls with React</b> by utilizing useEffect and get to practice that by doing a Kanye West lab.
@@ -412,7 +412,7 @@ ____
 
 <br>
 
-</details> -->
+</details>
 
 </details>
 
