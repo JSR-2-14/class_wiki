@@ -405,8 +405,8 @@ ____
 
 | Monday | Wednesday |
 |:---:|:---:|
-| [Recording]() | [Recording]() |
-| Passcode: ` ` | Passcode: ` ` |
+| [Recording](https://generalassembly.zoom.us/rec/share/cFM8BStWQxc-OcPgZkekC1RKKW_ANajsXjvXjymGOKt9RsC5lZ0UnOS036SlctEL.d8Cgfvc4DG55o55w) | [Recording](https://generalassembly.zoom.us/rec/share/hPFwOj2XVqB19oqF1q5atz8BxkcOlofXPWHIVDzjSl7HWYMeX1C2TBcPAzq0szg.8b0MyeI0_C_n8Hhi) |
+| Passcode: `Ee=$99D=` | Passcode: `Dsh2@!uR` |
 
 </ul>
 
