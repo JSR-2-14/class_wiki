@@ -395,8 +395,8 @@ ____
 
 | Monday | Wednesday |
 |:---:|:---:|
-| [React w/ APIs](https://ga-curriculum.vercel.app/docs/unit-3/react-APIs) | [Intro to Project 3](https://ga-curriculum.vercel.app/docs/unit-3/intro-to-react-APIs) |
-| [Kanye useEffect Lab / HW](https://ga-curriculum.vercel.app/docs/exercises/kanye-useEffect) |  |
+| [React w/ APIs](https://ga-curriculum.vercel.app/docs/unit-3/react-APIs) | [Kanye useEffect Lab](https://ga-curriculum.vercel.app/docs/exercises/kanye-useEffect) |
+|  | [Intro to Project 3](https://ga-curriculum.vercel.app/docs/unit-3/intro-to-react-APIs) |
 
 
 <ul type="none">
