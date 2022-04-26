@@ -319,7 +319,6 @@ ____
 | [React Components](https://ga-curriculum.vercel.app/docs/unit-3/react-components) | [React Props](https://ga-curriculum.vercel.app/docs/unit-3/react-props) |
 | []() | [React LOTR Lab](https://ga-curriculum.vercel.app/docs/exercises/react-lotr) |
 
-
 <ul type="none">
 
 <details><summary>Class Recordings</summary>
@@ -343,7 +342,6 @@ ____
 |:---:|:---:|
 | [Mapping Components](https://ga-curriculum.vercel.app/docs/unit-3/mapping-components) | [Movie Mapping](https://ga-curriculum.vercel.app/docs/exercises/movie-mapping) |
 | [Mapping Contacts](https://ga-curriculum.vercel.app/docs/exercises/mapping-components) |  |
-
 
 <ul type="none">
 
