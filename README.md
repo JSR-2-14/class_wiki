@@ -154,7 +154,6 @@ In Week 1, we start off by getting all of our <b>Installations</b> done. We make
 |:---:|:---:|
 | No Class | [Installations](https://ga-curriculum.vercel.app/docs/unit-1/installations) |
 
-
 <ul type="none">
 
 <details><summary>Class Recordings</summary>
@@ -295,8 +294,6 @@ In Week 5, we are introduced to the <b>DOM</b>. Then we get some practice workin
 
 </ul>
 
-<br>
-
 </details>
 
 </details>
@@ -354,8 +351,6 @@ ____
 
 </ul>
 
-<br>
-
 </details>
   
 <details><summary><strong>Week 9</strong></summary>
@@ -381,8 +376,6 @@ ____
 
 </ul>
 
-<br>
-
 </details>
   
 <details><summary><strong>Week 10</strong></summary>
@@ -396,7 +389,6 @@ ____
 | [React w/ APIs](https://ga-curriculum.vercel.app/docs/unit-3/react-APIs) | [Kanye useEffect Lab](https://ga-curriculum.vercel.app/docs/exercises/kanye-useEffect) |
 |  | [Intro to Project 3](https://ga-curriculum.vercel.app/docs/unit-3/intro-to-react-APIs) |
 
-
 <ul type="none">
 
 <details><summary>Class Recordings</summary>
@@ -407,8 +399,6 @@ ____
 | Passcode: `Ee=$99D=` | Passcode: `Dsh2@!uR` |
 
 </ul>
-
-<br>
 
 </details>
 
